@@ -1,5 +1,4 @@
 <?php
-//comment
 require_once('lib/template.php');
 printHeader('Favorite Recipes!','favorite');
 ?>
